@@ -31,7 +31,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data 
-                    android:scheme="com.yourname.uploaderx.oauth2" 
+                    android:scheme="com.vineyard.uploaderx.app.oauth2" 
                     android:host="callback" />
             </intent-filter>
 
