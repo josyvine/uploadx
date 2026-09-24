@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.yourname.uploaderx'
+    namespace 'com.vineyard.uploaderx.app'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.yourname.uploaderx"
+        applicationId "com.vineyard.uploaderx.app"
         minSdk 26
         targetSdk 34
         versionCode 1
